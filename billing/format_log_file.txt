@@ -1,0 +1,1 @@
+Data | Start_time_call | End_time_call | Call_duration | Call_type | Caller_phone | Dialed_phone | Tariff | ID_abonent | Name_abonent | Location_call
